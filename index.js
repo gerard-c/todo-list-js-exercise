@@ -14,7 +14,7 @@ const newTask = (title, description) => {
     }
   };
   return task;
-}
+};
 
 
 const task1 = newTask("Clean Cat Litter", "Take all the 💩 out of the litter box");
